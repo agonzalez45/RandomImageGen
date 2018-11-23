@@ -1,0 +1,10 @@
+Index.php contents: php, html, css, javascript
+1. php handles the image generation. 
+    -the image generates in a standard 200 x 300 pixels in color
+    -can be changed to gray scale and 400 x 600 pixels
+2. html, css and javascript is used for the front end
+    -the javascript portion is for the radio buttons
+        just to uncheck the buttons
+    -I did not want to use javascript for any of the image generation, 
+        just front end.
+3. radio buttons are used to switch to gray, different image ratio or both
